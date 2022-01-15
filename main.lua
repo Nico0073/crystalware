@@ -1,3 +1,4 @@
+--Hi if you're reading this, it's not out yet
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
